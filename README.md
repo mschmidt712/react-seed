@@ -90,6 +90,11 @@ $ yarn run serve
 ** Note: it is recommended you run this command from the master branch
 or a tag. By Default this proxies with the webpack-dev-server proxy. **
 
+This task is also aliased as:
+```
+$ yarn start
+```
+
 ### Tests
 To run unit tests run:
 ```
